@@ -1,3 +1,18 @@
+/*
+Welcome to Custom CSS!
+
+To learn how this works, see https://wp.me/PEmnE-Bt
+*/
 .site-title {
-    display: none;
+	display: none;
+}
+
+.bold-letter-highlight {
+	color: #bd3854;
+}
+
+.checkpoint {
+	border: 1px solid #bd3854;
+	border-radius: 10px;
+	padding: 5px;
 }
