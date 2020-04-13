@@ -16,3 +16,30 @@ To learn how this works, see https://wp.me/PEmnE-Bt
 	border-radius: 10px;
 	padding: 5px;
 }
+
+.highlight-pink {
+	color: #bd3854;
+}
+
+.entry-title {
+	display: none !important;
+}
+
+.entry-header {
+	margin-top: 0 !important;
+	display: none;
+}
+
+/*
+.site-header {
+	width: 100%;
+	position: absolute !important;
+}
+
+.post-thumbnail {
+	margin-top: 0 !important;
+}*/
+
+.display-none {
+	display: none important;
+}
